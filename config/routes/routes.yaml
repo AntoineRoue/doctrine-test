@@ -1,0 +1,7 @@
+test1:
+  path: /test1
+  defaults: { _controller: App\Controller\TestController::test1 }
+
+test2:
+  path: /test2
+  defaults: { _controller: App\Controller\TestController::test2 }
